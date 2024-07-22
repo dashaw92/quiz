@@ -1,0 +1,51 @@
+Ham Radio Q Codes Quiz
+
+Your exact frequency is ___ kHz. / Will you tell me my exact frequency?
+I am busy (or I am busy with ___). / Are you busy?
+Your transmission is being interfered with ___ (1-5). / Is my transmission being interfered with?
+I am troubled by static ___ (1-5). / Are you troubled by static?
+Increase power. / Shall I increase power?
+Decrease power. / Shall I descrease power?
+Send faster (___ wpm). / Shall I send faster?
+Send slower (___ wpm). / Shall I send slower?
+Stop sending. / Shall I stop sending?
+I have nothing for you. / Have you anything for me?
+I am ready. / Are you ready?
+I will call you again at ___ hours (on ___ kHz). / When will you call me again?
+You are being called by ___ (on ___ kHz). / Who is calling me?
+Your signals are fading. / Are my signals fading?
+I can hear you between signals; break in on my transmission. / Can you hear me between your signals, and can I break in on your transmission?
+I am acknowledging your receipt. / Can you acknowledge receipt (of a message or transmission)?
+I can communicate with ___ direct (or relay through ___). / Can you communicate with ___ direct or by relay?
+I will relay to ___. / Will you relay to ___?
+General call for all amateurs and ARRL members. / "CQ ARRL."
+I am listening to ___ on ___ kHz. / Will you listen to ___ on ___ kHz?
+Change to transmission on another frequency (or on ___ kHz). / Shall I change to transmission on another frequency (or on ___ kHz)?
+I have ___ messages for you (or for ___). / How many messages have you to send?
+My location is ___. / What is your location?
+The time is ___. / What is the correct time?
+
+QRG: 0
+QRL: 1
+QRM: 2
+QRN: 3
+QRO: 4
+QRP: 5
+QRQ: 6
+QRS: 7
+QRT: 8
+QRU: 9
+QRV: 10
+QRX: 11
+QRZ: 12
+QSB: 13
+QSK: 14
+QSL: 15
+QSO: 16
+QSP: 17
+QST: 18
+QSX: 19
+QSY: 20
+QTC: 21
+QTH: 22
+QTR: 23
